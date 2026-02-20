@@ -72,7 +72,7 @@ const RESOURCES = {"index.html": "6cebe8812d6f42005440583a19dee14c",
 "assets/assets/pacos.jpg": "a747c8c814ea430e996307dd3641f5cc",
 "assets/assets/restaurante.png": "70b23fa46048741358373107df0e2b7c",
 "assets/assets/placesrestaurante.json": "1516d04ecee4242d7ba752105196e0fb",
-"assets/assets/alitas.json": "3256f041b17ceed04c737c000a098f54",
+"assets/assets/alitas.json": "7c16454a5035c89a67fe28ab9d150e5e",
 "assets/assets/sazonpacifico.jpg": "d0308c5d5a0340ff42be4110f730320b",
 "assets/assets/PREFERIDO_DE_NOE.png": "91792c2722b6653b9ac8d13a607cefa6",
 "assets/assets/no_image.jpeg": "abcae94d543f1ddcc418317b979f6354",
@@ -135,7 +135,7 @@ const RESOURCES = {"index.html": "6cebe8812d6f42005440583a19dee14c",
 "main.dart.js": "c7b6e2471ef35c66e85081a467fe714c",
 "version.json": "9d64830b9787f9a65e71da39fb9a5e85",
 "manifest.json": "36f20b7e838d50b330f8a77eeef18d50",
-"flutter_bootstrap.js": "d7352b05a8aff2b2dffc78eb0258b9b1",
+"flutter_bootstrap.js": "d5a5e5d524fd401c7a343e658395c4a7",
 "flutter.js": "f393d3c16b631f36852323de8e583132"};
 // The application shell files that are downloaded before a service worker can
 // start.

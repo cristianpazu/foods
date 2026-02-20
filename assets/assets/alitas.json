@@ -209,7 +209,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 200 gr + 4 piezas de alitas + papas a la francesa",
           "unidades": "0",
-          "precio": "$33.000",
+          "precio": "$ 33.000",
           "salsas": [
             {
               "id": 1,
@@ -247,7 +247,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 300 gr + 6 piezas de alitas + papas a la francesa",
           "unidades": "0",
-          "precio": "$45.000",
+          "precio": "$ 45.000",
           "salsas": [
             {
               "id": 1,
@@ -285,7 +285,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 400 gr + 8 piezas de alitas + papas a la francesa",
           "unidades": "0",
-          "precio": "$56.000",
+          "precio": "$ 56.000",
           "salsas": [
             {
               "id": 1,
@@ -323,7 +323,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 600 gr + 12 piezas de alitas + papas a la francesa + gaseosa 1.5 lts",
           "unidades": "0",
-          "precio": "$75.000",
+          "precio": "$ 75.000",
           "salsas": [
             {
               "id": 1,
@@ -366,7 +366,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 200 gr + papas a la francesa",
           "unidades": "0",
-          "precio": "20.000",
+          "precio": "$ 20.000",
           "salsas": [
             {
               "id": 1,
@@ -404,7 +404,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 200 gr + papas a la francesa",
           "unidades": "0",
-          "precio": "33.000",
+          "precio": "$ 33.000",
           "salsas": [
             {
               "id": 1,
@@ -442,7 +442,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Costilla ahumada 400 gr + papas a la francesa",
           "unidades": "0",
-          "precio": "40.000",
+          "precio": "$ 40.000",
           "salsas": [
             {
               "id": 1,
@@ -486,7 +486,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Gaseosa de  400 ml",
           "unidades": "0",
-          "precio": "5.000"
+          "precio": "$ 5.000"
         },
         {
              "id":14,
@@ -494,7 +494,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Jugo Hit personal 500 ml",
           "unidades": "0",
-          "precio": "4.500"
+          "precio": "$ 4.500"
         },
         {
              "id":15,
@@ -502,7 +502,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Jugo Hit tetrapack",
           "unidades": "0",
-          "precio": "7.000"
+          "precio": "$ 7.000"
         },
         {
              "id":16,
@@ -510,7 +510,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Jugo Hit tetrapack",
           "unidades": "0",
-          "precio": "6.500"
+          "precio": "$ 6.500"
         },
         {
              "id":17,
@@ -518,7 +518,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Limonada natural (Las limonadas para llevar tienen un costo adicional de $1.000)",
           "unidades": "0",
-          "precio": "11.00"
+          "precio": "$ 11.000"
         },
         {
             "id":18,
@@ -526,7 +526,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Limonada de mango (Las limonadas para llevar tienen un costo adicional de $1.000)",
           "unidades": "0",
-          "precio": "12.000"
+          "precio": "$ 12.000"
         },
         {
             "id":19,
@@ -534,7 +534,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Limonada de coco (Las limonadas para llevar tienen un costo adicional de $1.000)",
           "unidades": "0",
-          "precio": "12.000"
+          "precio": "$ 12.000"
         },
         {
             "id": 20,
@@ -542,7 +542,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Limonada de cerezada (Las limonadas para llevar tienen un costo adicional de $1.000)",
           "unidades": "0",
-          "precio": "12.000"
+          "precio": "$ 12.000"
         },
         {
             "id": 21,
@@ -550,7 +550,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "agua",
           "unidades": "0",
-          "precio": "5.000"
+          "precio": "$ 5.000"
         },
         {
             "id":22,
@@ -558,7 +558,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "soda",
           "unidades": "0",
-          "precio": "4.500"
+          "precio": "$ 4.500"
         },
         {
             "id":23,
@@ -566,7 +566,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "aguila light",
           "unidades": "0",
-          "precio": "6.500"
+          "precio": "$ 6.500"
         },
         {
             "id":24,
@@ -574,7 +574,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Club colombia",
           "unidades": "0",
-          "precio": "6.500"
+          "precio": "$ 6.500"
         },
         {
             "id":25,
@@ -582,7 +582,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Poker",
           "unidades": "0",
-          "precio": "6.500"
+          "precio": "$ 6.500"
         },
         {
              "id":26,
@@ -590,7 +590,7 @@
           "image": "assets/hamburgesasDobleCarne.jpg",
           "descripcion": "Corana extra",
           "unidades": "0",
-          "precio": "7.500"
+          "precio": "$ 7.500"
         }
       ]
     }
